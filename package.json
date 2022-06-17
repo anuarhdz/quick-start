@@ -8,6 +8,7 @@
     "clean": "rimraf ./public && rimraf ./.parcel-cache"
   },
   "devDependencies": {
+    "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
     "autoprefixer": "^10.4.7",
     "parcel": "latest",
     "postcss": "^8.4.14",
